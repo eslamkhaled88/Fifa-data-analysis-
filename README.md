@@ -6,3 +6,11 @@
 * Electronic Arts' FIFA series includes FIFA 19, a video game that simulates the game of football. It was created by EA Vancouver. I made this blog post as a lover of football and a football gamer to do some data analysis on the FIFA 19 Player Dataset from Kaggle.
 
 * The dataset includes data on all 18207 players from the most recent FIFA 19 game. There are 89 qualities total, which include player skill information like ball control, dribbling, crossing, finishing, GK skills, etc., as well as personal information like age, name, country, photo, club, wage, etc.
+# qustions
+* Draw the outliers of players value
+* Draw the distripution of players Height
+* Is there a correlation between Value and Overall and viusalize the results with two graphs?**
+* what are the top 10 average overall clubs and visualize with a graph ?
+* What are the top 5 most common nationality and visualize them with a graph?
+
+
